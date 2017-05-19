@@ -19,12 +19,13 @@ a{
   color: aquamarine;
 }
 
-.copyright{
-  text-align: right;
+#remember{
+  font-size: 21px;
   color: gray;
 }
 
-#remember{
+#copyright{
   font-size: 21px;
+  text-align: right;
   color: gray;
 }
